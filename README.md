@@ -1,4 +1,3 @@
-[![An image of @schiavonnathan Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/schiavonnathan)](https://holopin.io/@schiavonnathan)
 <h3 align="left">- My Stats :</h3>
 
 ###
@@ -63,12 +62,5 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchiavonNathan/SchiavonNathan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchiavonNathan/SchiavonNathan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SchiavonNathan/SchiavonNathan/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
