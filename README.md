@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SchiavonNathan&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=2" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SchiavonNathan&locale=en&hide_title=false&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&order=3" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -15,12 +14,6 @@
   <a href="https://www.linkedin.com/in/schiavonnathan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SchiavonNathan&theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
